@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jun Song (宋珺)"
+title                    : "Jun Song"
 title_separator          : "-"
-name                     : &name "Jun Song"
+name                     : &name "Jun Song (宋珺)"
 description              : &description ""
 url                      : https://kadysongbb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
