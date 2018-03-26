@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/ChromaticMCMC
 venue: "AAAI-17 Distributed Machine Learning Workshop"
 date: 2017-2-7
-citation: '<b>Jun Song</b>, David A.Moore. <i>AAAI-17 Distributed Machine Learning Workshop</i>. '
+citation: '<b>Jun Song</b>, David A.Moore. <i>AAAI-17 Distributed Machine Learning Workshop</i>. <b>AAAI 17</b>'
 ---
 [[ArXiv]](https://arxiv.org/abs/1612.00595) [[AAAI Version]](https://aaai.org/ocs/index.php/WS/AAAIW17/paper/view/15079) [[Code]](To be updated) [[Slide]](http://kadysongbb.github.io/files/2017-02-07-aaai-chromatic-mcmc.pdf)
 
