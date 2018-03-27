@@ -11,12 +11,12 @@ tags:
 Photos (of me) taken (by someone special) near Seattle around the last quarter of 2017. 
 
 <p align="center">
-  <img src="https://kadysongbb.github.io/blog_files/2017-12-24-leavenworth1.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://kadysongbb.github.io/blog_files/2017-12-24-leavenworth1.jpg?raw=true" alt="Photo" style="width: 500px;"/> 
 </p>
 
 
 <p align="center">
-  <img src="https://kadysongbb.github.io/blog_files/2017-12-24-leavenworth2.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://kadysongbb.github.io/blog_files/2017-12-24-leavenworth2.jpg?raw=true" alt="Photo" style="width: 500px;"/> 
 </p>
 
 <p align="center">
