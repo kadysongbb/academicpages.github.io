@@ -1,6 +1,6 @@
 ---
 title: 'Places near Seattle'
-date: 2017-12
+date: 2018-01-01
 permalink: /posts/2017/12/collection/
 tags:
   - Leavenworth
@@ -27,7 +27,7 @@ Photos (of me) taken (by someone special) near Seattle around the last quarter o
   <img src="https://kadysongbb.github.io/blog_files/2018-01-01-seattle1.JPG?raw=true" alt="Photo" style="width: 500px;"/> 
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://kadysongbb.github.io/blog_files/2018-01-01-seattle2.JPG?raw=true" alt="Photo" style="width: 500px;"/> 
 </p>
 
@@ -37,5 +37,5 @@ Photos (of me) taken (by someone special) near Seattle around the last quarter o
 
 <p align="center">
   <img src="https://kadysongbb.github.io/blog_files/2018-01-01-seattle4.JPG?raw=true" alt="Photo" style="width: 500px;"/> 
-</p>
+</p> -->
 
