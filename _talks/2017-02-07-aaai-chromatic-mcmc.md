@@ -2,7 +2,7 @@
 title: "Parallel Chromatic MCMC with Spatial Partitioning"
 collection: talks
 type: "Talk"
-permalink: /talks/2017-02-07-aaai-seqgan
+permalink: /talks/2017-02-07-aaai-chromatic-mcmc
 venue: "31st AAAI conference on Artificial Intelligence"
 date: 2017-02-07
 location: "San Francisco, California"
