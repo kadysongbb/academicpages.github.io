@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://kadysongbb.github.io/images/jun_song.jpeg?raw=true" alt="Photo" style="width: 250px;"/> 
+  <img src="https://kadysongbb.github.io/images/jun_song.jpeg?raw=true" alt="Photo" style="width: 500px;"/> 
 </p>
 
 
