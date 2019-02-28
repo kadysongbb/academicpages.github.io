@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-M.S. in Applied Mathematics, University of Washington, Seattle, 2018-2019 <br/>
+M.S. in Applied Mathematics, University of Washington, Seattle, 2018 - 2019 <br/>
 B.A. in Mathematics, University of California, Berkeley, 2013 - 2017 <br/>
 B.S. in EECS, Honors, University of California, Berkeley, 2013 - 2017
